@@ -23,10 +23,12 @@ Story telling on ours #failure-parties.
 
 Workshops partecipants:
 
-| name       | surname | mail                        |
-| ---------- | ------- | --------------------------- |
-| Alessandro | Poli    | alessandro.poli@mondora.com |
-| Manuel     | Serra   | manuel.serra@mondora.com    |
+| name       | surname | mail                            |
+| ---------- | ------- | --------------------------------|
+| Alessandro | Poli    | alessandro.poli@mondora.com     |
+| Manuel     | Serra   | manuel.serra@mondora.com        |
+| Emanuele   | Palmulli| emanuele.palmulli@top-network.it|
+| Gabriele   | Maggi   | gabriele.maggi@top-network.it   |
 
 Exercise: make your personal pull request and fill this table.
 
